@@ -1,4 +1,4 @@
-package com.vpsoftware.exemple;
+package com.sbev.proxibanque.dao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
