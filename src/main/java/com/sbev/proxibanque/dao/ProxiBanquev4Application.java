@@ -8,6 +8,6 @@ public class ProxiBanquev4Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProxiBanquev4Application.class, args);
-		System.out.println("sbghvbfdhjvbhjfdbv");
+
 	}
 }
